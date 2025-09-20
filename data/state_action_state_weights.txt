@@ -1,0 +1,6 @@
+state_action_state_weights
+4 2 1 10
+"A" "N" "A" 10
+"A" "N" "B" 5
+"B" "N" "A" 2
+"B" "N" "B" 1

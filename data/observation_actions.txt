@@ -1,0 +1,5 @@
+observation_actions
+3
+"X" "N"
+"Y" "N"
+"X" "N"

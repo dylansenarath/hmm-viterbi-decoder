@@ -1,0 +1,6 @@
+state_observation_weights
+4 2 2 5
+"A" "X" 10
+"A" "Y" 5
+"B" "X" 3
+"B" "Y" 7

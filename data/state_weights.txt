@@ -1,0 +1,4 @@
+state_weights
+2 1
+"A" 5
+"B" 0
